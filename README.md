@@ -19,3 +19,14 @@
 [![](https://visitcount.itsvg.in/api?id=Hann000&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Hann000/Hann000/output/snake.svg" alt="Snake animation" />
+
+###
