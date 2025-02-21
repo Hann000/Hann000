@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hann000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dpM21qYjM1ZTh3bnp4MDdlcm9tbjd3cGxsOW9wbzV0NDF6emM4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5iCpBsEJN3E59BbxU/giphy.gif"  />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hann000&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Hann000&icon=0&color=0)](https://visitcount.itsvg.in)<img align="center" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dpM21qYjM1ZTh3bnp4MDdlcm9tbjd3cGxsOW9wbzV0NDF6emM4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5iCpBsEJN3E59BbxU/giphy.gif"  />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
